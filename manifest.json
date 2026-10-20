@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "signalbus",
+  "versions": [
+    {
+      "commit": "6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6",
+      "parsed_at": "2026-10-20T21:24:22.942692+00:00",
+      "tag": "0.2.5",
+      "filetree": "filetree/6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6.nq.gz",
+      "blobs": [
+        "blob/6032c7bdb5d2b4f13eb87ead5cf1bc1d7e7467ca.nq.gz",
+        "blob/9db15d06f63aa387868e883ccc13592e4c4c3420.nq.gz",
+        "blob/502b398f50fcf28f9bc857a9140a8b022fd368cb.nq.gz",
+        "blob/e169889f5c3868ca7c76d6e0cfe9812ab60d345b.nq.gz",
+        "blob/dccc506f15cdefe7836a3076d0330c74a1a4e2a2.nq.gz",
+        "blob/c85fd2da562176be3d951862d74b81ccb849563f.nq.gz",
+        "blob/2a34a38389d5b0eac70d9ca6e06dbc4ab28d475e.nq.gz",
+        "blob/9b1c8b133c966006ff025957aa43c7de7bc04be8.nq.gz",
+        "blob/de925c5a377a6e9babb50c2554bf6bae933820b5.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6314485fe40a26a1d76c500051e192d96817259e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
