@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/signalbus/commit/6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6",
       "git:hexsha": "6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.5"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.5",
+      "repolex:parsedAt": "2026-10-20T21:26:38.498863+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/signalbus/commit/37f846b85a5389cd9e1de40a649231f480bee43b",
