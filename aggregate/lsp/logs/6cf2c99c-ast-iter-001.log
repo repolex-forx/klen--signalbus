@@ -1,0 +1,7 @@
+[2026-10-20T21:25:38Z] === AST ITERATION 1 START | repo=klen/signalbus sha=6cf2c99c ===
+[2026-10-20T21:25:38Z] [iter=1] PHASE START: ast repo=klen/signalbus sha=6cf2c99c
+[2026-10-20T21:25:38Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T21:25:38Z] [iter=1] AST chunks built count=1 triples=9429
+[2026-10-20T21:25:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6/.complete
+[2026-10-20T21:25:38Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-20T21:25:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
