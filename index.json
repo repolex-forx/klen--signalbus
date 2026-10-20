@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "signalbus",
+  "versions": [
+    {
+      "commit": "6cf2c99c0703f6a8cc8b02c54bcd7de122c002e6",
+      "tag": "0.2.5",
+      "parsed_at": "2026-10-20T21:26:38.499312+00:00"
+    }
+  ]
+}
